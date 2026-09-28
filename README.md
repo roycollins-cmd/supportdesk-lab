@@ -60,5 +60,7 @@ Each Support issue is investigated using the following process:
 
 Currently Under Development
 
-## Roy collins Kucherera 
+## Author
+
+Roy Collins Kucherera
 IT / Technical Support Portfolio
