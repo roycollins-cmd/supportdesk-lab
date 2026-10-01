@@ -1,0 +1,1 @@
+this will house all collected information about the active directory
