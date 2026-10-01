@@ -1,0 +1,1 @@
+this will house all pictures to support the knowledgebase and troubleshooting
